@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Rumah Coklat E24</title>
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
+<body>
+  <header>
+    <div class="container">
+      <div class="header-left">
+        <img class="logo" src="https://cdn.discordapp.com/attachments/722526290967658529/723377097594241064/IMG-20200619-WA0000.jpg">
+      </div>
+      <div class="header-right">
+                <a href="#">Pemesanan</a>
+                <a href="#">Info Keagenan</a>
+                <a href="#">Tentang Kami</a>
+              </div>
+            </div>
+            <div class="top-wrapper">
+                  <div class="container">
+                    <h1>RUMAH COKLAT E24</h1>
+                    <h1>AYO NYOKLAT!</h1>
+                    <p>Sesungguhnya kenikmatan coklat itu nyata.</p>
+                    <p>Kami menawarkan kenikmatan coklat dari awal hingga ketagihan.</p>
+                  </div>
+            </div>
+      <div class="lesson-wrapper">
+      <div class="container">
+        <div class="heading">
+          <h2>Cari tau mana yang Anda suka!</h2>
+        </div>
+        <div class="lessons">
+          <div class="lesson">
+            <div class="lesson-icon">
+              <img src="https://cdn.discordapp.com/attachments/722526290967658529/724673565663690792/465cb7948b9510a4c4f2206befdf7f43.png">
+               <p>CHOCOFFEE</p>
+            </div>
+             <p class="text-contents">Perpaduan cita rasa kopi dan coklat meleleh di lidah.</p>
+          </div>
+          <div class="lesson">
+            <div class="lesson-icon">
+              <img src="https://cdn.discordapp.com/attachments/722526290967658529/724628454896566282/CocoaRaw.jpg">
+              <p>CHOCOBAR</p>
+            </div>
+            <p class="text-contents">Coklat batang yang kress begitu Anda gigit.</p>
+          </div>
+          <div class="lesson">
+            <div class="lesson-icon">
+              <img src="https://cdn.discordapp.com/attachments/722526290967658529/724628454896566282/CocoaRaw.jpg">
+              <p>CHOCOMIL</p>
+            </div>
+            <p class="text-contents">Coklat plus susu,lezat dan bergizi.</p>
+          </div>
+          <div class="lesson">
+            <div class="lesson-icon">
+              <img src="https://cdn.discordapp.com/attachments/722526290967658529/724628454896566282/CocoaRaw.jpg">
+              <p>CHOCOMOND</p>
+            </div>
+            <p class="text-contents">Legitnya sejak gigitan pertama.</p>
+          </div>
+          <div class="clear"></div>
+        </div>
+      </div>
+    </div>
+    <div class="message-wrapper">
+      <div class="container">
+        <div class="heading">
+          <h2>Apakah Anda siap menikmatinya?</h2>
+          <h3>Ayo nyoklat, ayo nikmati!</h3>
+        </div>
+        <span class="btn message">BELI</span>
+      </div>
+    </div>
